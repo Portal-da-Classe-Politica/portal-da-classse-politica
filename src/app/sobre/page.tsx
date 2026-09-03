@@ -14,22 +14,22 @@ export const revalidate = 300;
 
 const headerText = [
   {
-    title: '2.884.495',
+    title: '3.165.776',
     subtitle: 'Candidaturas computadas ',
-    text: 'Número de candidaturas identificadas nos bancos de dados do TSE de 1998 a 2022 ',
+    text: 'Número de candidaturas identificadas nos bancos de dados do TSE de 1998 a 2024 ',
   },
   {
-    title: '1.822.832 ',
+    title: '2.047.376 ',
     subtitle: 'Indivíduos candidatos ',
-    text: 'Número de pessoas candidatas nos bancos de dados do TSE de 1998 a 2022 ',
+    text: 'Número de pessoas candidatas nos bancos de dados do TSE de 1998 a 2024 ',
   },
   {
-    title: '8gb ',
+    title: '9gb ',
     subtitle: 'Dataframe',
     text: 'Tamanho total do banco de dados computado no Portal da Classe Política ',
   },
   {
-    title: '47 planilhas do TSE',
+    title: '50 planilhas do TSE',
     subtitle: 'Arquivos do TSE ',
     text: 'Número de planilhas tratadas na arquitetura de dados do Portal da Classe Política',
   },

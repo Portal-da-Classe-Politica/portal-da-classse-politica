@@ -47,11 +47,11 @@ const Page = () => {
           <p className="leading-8 py-4 text-justify">
             A metodologia adotada no Portal da Classe Política combina técnicas avançadas de engenharia de
             dados com fundamentos da Ciência Política empírica. O projeto parte de uma base robusta que
-            consolida todas as eleições brasileiras entre 1998 e 2022, totalizando mais de 2,8 milhões de
-            candidaturas e cerca de 1,8 milhão de indivíduos únicos. A partir dos dados brutos
-            disponibilizados pelo TSE, foi implementado um processo rigoroso de padronização e tratamento, que
-            envolve a estruturação de um banco de dados relacional com arquitetura entidade-relacionamento
-            normalizada, escalável e preparada para cruzamentos complexos. Com a base limpa e unificada, foram
+            consolida todas as eleições brasileiras entre 1998 e 2024, totalizando mais de 3,1 milhões de
+            candidaturas e cerca de 2 milhões de indivíduos únicos. A partir dos dados brutos disponibilizados
+            pelo TSE, foi implementado um processo rigoroso de padronização e tratamento, que envolve a
+            estruturação de um banco de dados relacional com arquitetura entidade-relacionamento normalizada,
+            escalável e preparada para cruzamentos complexos. Com a base limpa e unificada, foram
             desenvolvidos indicadores analíticos que automatizam o cálculo de mais de 16 índices clássicos da
             literatura de Ciência Política e Sociologia Eleitoral, além de métricas autorais elaboradas pela
             equipe técnica.
@@ -279,9 +279,9 @@ const Page = () => {
             consultas especializadas e indicadores derivados. Esse modelo é típico de data warehouses
             políticos, pensado para consultas rápidas, escalabilidade e manutenção modular. Em termos de
             escala, o banco de dados estruturado no Portal da Classe Política agrega informações de 14
-            eleições entre 1998 e 2022, com um total de 2.884.495 candidaturas computadas, referentes a
-            1.822.832 indivíduos únicos. O volume total de dados tratados atinge aproximadamente 8 GB em
-            formato de dataframe, resultantes do processamento de 47 planilhas oficiais do TSE. Esses números
+            eleições entre 1998 e 2024, com um total de 3.165.776 candidaturas computadas, referentes a
+            2.047.376 indivíduos únicos. O volume total de dados tratados atinge aproximadamente 9 GB em
+            formato de dataframe, resultantes do processamento de 50 planilhas oficiais do TSE. Esses números
             expressam não apenas a complexidade técnica envolvida, mas também o compromisso do projeto com a
             organização, acessibilidade e inteligência sobre o sistema eleitoral brasileiro. A abordagem de
             armazenamento adotada facilita atualizações e correções. À medida que novas eleições ocorrem,

@@ -101,22 +101,22 @@ const Home = () => {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6	flex-1">
               <BoxData
-                header="2.884.495 "
+                header="3.165.776 "
                 title="Candidaturas computadas "
-                content="Número de candidaturas identificadas nos bancos de dados do TSE de 1998 a 2022"
+                content="Número de candidaturas identificadas nos bancos de dados do TSE de 1998 a 2024"
               />
               <BoxData
-                header="1.822.832 "
+                header="2.047.376 "
                 title="Indivíduos candidatos "
-                content="Número de pessoas candidatas nos bancos de dados do TSE de 1998 a 2022 "
+                content="Número de pessoas candidatas nos bancos de dados do TSE de 1998 a 2024 "
               />
               <BoxData
-                header="8gb "
+                header="9gb "
                 title="Dataframe "
                 content="Tamanho total do banco de dados computado no Portal da Classe Política "
               />
               <BoxData
-                header="47 planilhas"
+                header="50 planilhas"
                 title="Arquivos do TSE "
                 content="Número de planilhas tratadas na arquitetura de dados do Portal da Classe Política "
               />
